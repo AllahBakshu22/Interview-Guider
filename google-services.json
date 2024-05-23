@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749516768859",
+    "project_id": "interview-58e02",
+    "storage_bucket": "interview-58e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749516768859:android:641b8fc411337c231e217e",
+        "android_client_info": {
+          "package_name": "com.akhila.interviewguider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qJb-ZXUmEH5nqfg_TjYFN2u01yYMAfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
